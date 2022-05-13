@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+html, body {
+    @apply h-screen w-full bg-slate-800;
+}
+
+body {
+    font-family: 'Fredoka One', cursive;
+    cursor: default;
+}
