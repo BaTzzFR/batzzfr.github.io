@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b09726f4.css",
+    "main.js": "/static/js/main.20f0481f.js",
+    "static/media/StateLifeA.png": "/static/media/StateLifeA.cf2fff41179d33b94ee2.png",
+    "static/media/StateLifeB.png": "/static/media/StateLifeB.0e39603dee9b6ba2e4c4.png",
+    "static/media/newYork.jpg": "/static/media/newYork.6ba479fcd701dc951765.jpg",
+    "static/media/StateLifeC.png": "/static/media/StateLifeC.a52cb5a4036deadf8d7f.png",
+    "static/media/LoiUs.png": "/static/media/LoiUs.581475b0b4b018c3c91a.png",
+    "static/media/AppartenanceSets.png": "/static/media/AppartenanceSets.bc76978e3b28ca82d408.png",
+    "static/media/PeineMort.png": "/static/media/PeineMort.21ad7671093b4a2ba338.png",
+    "static/media/StyleVestimentaires.png": "/static/media/StyleVestimentaires.07baca3da8b567b15131.png",
+    "index.html": "/index.html",
+    "main.b09726f4.css.map": "/static/css/main.b09726f4.css.map",
+    "main.20f0481f.js.map": "/static/js/main.20f0481f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b09726f4.css",
+    "static/js/main.20f0481f.js"
+  ]
+}
